@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Fabian-Bran
+- 👀 I’m interested in game design
+- 🌱 I’m currently C#, blender and python
+- 📫 How to reach me - branandreifabian2020@gmail.com
